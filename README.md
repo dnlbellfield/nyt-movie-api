@@ -1,4 +1,4 @@
-# NewYorkTimes Movie Reviews API- Search for movie reviews. 
+# New York Times Movie Reviews API 
 The New York Times Developer Network
 The NewYorkTimes APIs  (Application Programming Interfaces) allow you to programmatically access New York Times data for use in your own applications. Their goal is to facilitate a wide range of uses, from custom link lists to complex visualizations. Why just read the news when you can hack it?
 NYT currently has ten public APIs: Archive, Article Search, Books, Community, Geographic, Most Popular, Semantic, Times Newswire, TimesTags, and Top Stories.
